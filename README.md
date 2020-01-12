@@ -4,6 +4,10 @@
 
 ## Tech
 
+[Personal Spotify Music Trend Analysis](https://www.ivaylopavlov.com/personal-spotify-music-trend-analysis/)
+
+[WebSummit 2019 Takeaways](https://www.ivaylopavlov.com/websummit-2019-takeaways/)
+
 [Modern Web Engineering & Micro Frontends](https://www.ivaylopavlov.com/modern-web-engineering-micro-frontends/)
 
 [Live streaming to ReactJS with Websockets](https://www.ivaylopavlov.com/live-streaming-reactjs-websockets/)
@@ -37,6 +41,8 @@
 [Practical Guide to Git: Part I](https://www.ivaylopavlov.com/practical-guide-git-part/)
 
 [Setting up Oh-my-Zsh (Zsh)](https://www.ivaylopavlov.com/setting-oh-zsh-zsh/)
+
+[From Coder to Software Engineer [Part IV]](https://www.ivaylopavlov.com/from-coder-to-software-engineer-part-iv/)
 
 [From Coder to Software Engineer [Part III]](https://www.ivaylopavlov.com/from-coder-to-software-engineer-part-iii/)
 
