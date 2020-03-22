@@ -4,6 +4,10 @@
 
 ## Tech
 
+[The Value in Legacy Code](https://www.ivaylopavlov.com/the-value-in-legacy-code/)
+
+[Building a Minesweeper Game using React Hooks](https://www.ivaylopavlov.com/building-a-minesweeper-game-using-react-hooks)
+
 [Personal Spotify Music Trend Analysis](https://www.ivaylopavlov.com/personal-spotify-music-trend-analysis/)
 
 [WebSummit 2019 Takeaways](https://www.ivaylopavlov.com/websummit-2019-takeaways/)
