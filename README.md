@@ -4,6 +4,7 @@
 
 | Title                                                        | Category     | Published  |
 | ------------------------------------------------------------ | ------------ | ---------- |
+| [Redis: What, Why, How](https://www.ivaylopavlov.com/redis-what-why-how/) | `Technology`, `Presentations` | 26/04/2020 |
 | [Setting up Windows Terminal, WSL and Oh-my-Zsh](https://www.ivaylopavlov.com/setting-up-windows-terminal-wsl-and-oh-my-zsh/) | `Technology` | 22/03/2020 |
 | [The Value in Legacy Code](https://www.ivaylopavlov.com/the-value-in-legacy-code/) | `Technology`, `Opinion` | 21/03/2020 |
 | [Building a Minesweeper Game using React Hooks](https://www.ivaylopavlov.com/building-a-minesweeper-game-using-react-hooks) | `Games`, `Technology` | 07/03/2020 |
