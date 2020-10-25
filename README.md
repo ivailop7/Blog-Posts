@@ -4,6 +4,7 @@
 
 | Title                                                        | Category     | Published  | # |
 | ------------------------------------------------------------ | ------------ | ---------- | - |
+| [Building a Pong Game with P5 and ReactJS](https://www.ivaylopavlov.com/building-a-pong-game-with-p5-and-reactjs/) | `Games`, `Technology` | 25/10/2020 | 42 |
 | [Redis: What, Why, How](https://www.ivaylopavlov.com/redis-what-why-how/) | `Technology`, `Presentations` | 26/04/2020 | 41 |
 | [Setting up Windows Terminal, WSL and Oh-my-Zsh](https://www.ivaylopavlov.com/setting-up-windows-terminal-wsl-and-oh-my-zsh/) | `Technology` | 22/03/2020 | 40 |
 | [The Value in Legacy Code](https://www.ivaylopavlov.com/the-value-in-legacy-code/) | `Technology`, `Opinion` | 21/03/2020 | 39 |
