@@ -4,6 +4,7 @@
 
 | Title                                                        | Category     | Published  | # |
 | ------------------------------------------------------------ | ------------ | ---------- | - |
+| [Setting up Visual Studio Code for Web Development](https://www.ivaylopavlov.com/setting-up-visual-studio-code-for-web-development/) | `Technology` | 01/11/2020 | 43 |
 | [Building a Pong Game with P5 and ReactJS](https://www.ivaylopavlov.com/building-a-pong-game-with-p5-and-reactjs/) | `Games`, `Technology` | 25/10/2020 | 42 |
 | [Redis: What, Why, How](https://www.ivaylopavlov.com/redis-what-why-how/) | `Technology`, `Presentations` | 26/04/2020 | 41 |
 | [Setting up Windows Terminal, WSL and Oh-my-Zsh](https://www.ivaylopavlov.com/setting-up-windows-terminal-wsl-and-oh-my-zsh/) | `Technology` | 22/03/2020 | 40 |
