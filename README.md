@@ -4,6 +4,7 @@
 
 | Title                                                        | Category     | Published  | # |
 | ------------------------------------------------------------ | ------------ | ---------- | - | 
+| [Windows File Explorer Tips & Tricks](https://www.ivaylopavlov.com/windows-file-explorer-tips-tricks/) | `Technology` | 13/12/2020 | 45 |
 | [Setting up GraphQL for an SQL database in Python](https://www.ivaylopavlov.com/setting-up-graphql-for-an-sql-database-in-python/) | `Technology` | 24/11/2020 | 44 |
 | [Setting up Visual Studio Code for Web Development](https://www.ivaylopavlov.com/setting-up-visual-studio-code-for-web-development/) | `Technology` | 01/11/2020 | 43 |
 | [Building a Pong Game with P5 and ReactJS](https://www.ivaylopavlov.com/building-a-pong-game-with-p5-and-reactjs/) | `Games`, `Technology` | 25/10/2020 | 42 |
