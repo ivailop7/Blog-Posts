@@ -10,11 +10,11 @@
 | [Building a Pong Game with P5 and ReactJS](https://www.ivaylopavlov.com/building-a-pong-game-with-p5-and-reactjs/) | `Games`, `Technology` | 25/10/2020 | 42 |
 | [Redis: What, Why, How](https://www.ivaylopavlov.com/redis-what-why-how/) | `Technology`, `Presentations` | 26/04/2020 | 41 |
 | [Setting up Windows Terminal, WSL and Oh-my-Zsh](https://www.ivaylopavlov.com/setting-up-windows-terminal-wsl-and-oh-my-zsh/) | `Technology` | 22/03/2020 | 40 |
-| [The Value in Legacy Code](https://www.ivaylopavlov.com/the-value-in-legacy-code/) | `Technology`, `Opinion` | 21/03/2020 | 39 |
+| [The Value in Legacy Code](https://www.ivaylopavlov.com/the-value-in-legacy-code/) | `Technology`, `Opinion`, `Audio` | 21/03/2020 | 39 |
 | [Building a Minesweeper Game using React Hooks](https://www.ivaylopavlov.com/building-a-minesweeper-game-using-react-hooks) | `Games`, `Technology` | 07/03/2020 | 38 |
 | [Personal Spotify Music Trend Analysis](https://www.ivaylopavlov.com/personal-spotify-music-trend-analysis/) | `Music`, `Technology` | 12/01/2020 | 37 |
 | [WebSummit 2019 Takeaways](https://www.ivaylopavlov.com/websummit-2019-takeaways/) | `Technology`, `Opinion` | 24/11/2019 | 36 |
-| [From Coder to Software Engineer [Part IV]](https://www.ivaylopavlov.com/from-coder-to-software-engineer-part-iv/) | `Technology`, `Opinion` | 20/10/2019 | 35 |
+| [From Coder to Software Engineer [Part IV]](https://www.ivaylopavlov.com/from-coder-to-software-engineer-part-iv/) | `Technology`, `Opinion`, `Audio` | 20/10/2019 | 35 |
 | [Modern Web Engineering & Micro Frontends](https://www.ivaylopavlov.com/modern-web-engineering-micro-frontends/) | `Technology` | 15/09/2019 | 34 |
 | [Live streaming to ReactJS with Websockets](https://www.ivaylopavlov.com/live-streaming-reactjs-websockets/) | `Technology` | 28/07/2019 | 33 |
 | [Python 3 Features Worth Mentioning](https://www.ivaylopavlov.com/python-3-features/) | `Technology` | 30/06/2019 | 32 |
