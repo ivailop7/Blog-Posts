@@ -4,6 +4,7 @@
 
 | Title                                                        | Category     | Published  | # |
 | ------------------------------------------------------------ | ------------ | ---------- | - | 
+| [Compiled vs interpreted programming languages](https://www.ivaylopavlov.com/compiled-vs-interpreted-programming-languages/) | `Technology` | 05/07/2021 | 49 |
 | [Charting Apple Health data in Grafana](https://www.ivaylopavlov.com/charting-apple-healthkit-data-in-grafana/) | `Technology` | 03/05/2021 | 48 |
 | [How Video Streaming Works](https://www.ivaylopavlov.com/how-video-streaming-works/) | `Technology`, `Video` | 20/03/2021 | 47 |
 | [Embracing Video Production](https://www.ivaylopavlov.com/embracing-video-production/) | `Opinion` | 30/01/2021 | 46 |
